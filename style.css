@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: 'Work Sans', sans-serif;
 }
+img{
+    max-width: 100%;
+}
 header{
     background: url(image/banner2.png);
     background-repeat: no-repeat;
@@ -36,4 +39,37 @@ header{
     color: #fff;
     border-radius: 10px;
     border: none;
+}
+.failures-parts{
+    height: 723px;
+    display: flex;
+    justify-content: space-between;
+    margin: 118px 300px 119px 200px;
+}
+.failures-img{
+    width: 55%;
+}
+.failures-text{
+    width: 40%;
+    margin: 165px 0 85px 87px;
+}
+.failures-header{
+    font-size: 37px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.failures-description{
+    font-size: 14px;
+    color: #444343;
+    margin-right: -40px;
+    line-height: 24px;
+}
+span{
+    color: #16D887;
+    margin-right: 7px;
+}
+.failures-list{
+    font-size: 14px;
+    color: #444343;
+    margin: 10px 4px 0 0;
 }
