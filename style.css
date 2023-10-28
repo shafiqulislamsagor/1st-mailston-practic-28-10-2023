@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+}
+header{
+    background: url(image/banner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.header-text{
+    text-align: right;
+    padding: 176px 153px 0 0;
+}
+.header-title{
+    font-size: 58px;
+    font-weight: 700;
+    padding: 14px 59px 14px 677px;
+    color: #151414;
+}
+.header-discription{
+    font-size: 15px;
+    padding: 8px 59px 32px 670px;
+    color: #444343;
+    line-height: 23px;
+}
+.contact-btn{
+    width: 157px;
+    height: 61px;
+    font-size: 19px;
+    font-weight: 600;
+    margin: -9px 59px 0px 0px;
+    background-color: #F15B22;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+}
