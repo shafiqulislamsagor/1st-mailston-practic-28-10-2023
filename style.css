@@ -104,3 +104,35 @@ span{
     color: #444343;
     margin-top: 10px;
 }
+.positive-img-parts{
+    background: url(image/watch.png) ;
+    height: 244px;
+    width: 70%;
+    margin: 100px  auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+}
+.color{
+    background:  linear-gradient(90deg , #F15B22 , #f15d2200);
+    height: 244px;
+    width: 100%;
+    border-radius: 8px;
+}
+.color-title{
+    padding: 59px 375px 0 60px;
+    font-size: 37px;
+    font-weight: 700;
+    color: #fff;
+}
+.call{
+    width: 117px;
+    height: 46px;
+    background-color: #fff;
+    color: #F15B22;
+    margin: 10px 2px 0 64px;
+    border: none;
+    border-radius: 11px;
+    font-size: 17px;
+    font-weight: 700;
+}
